@@ -1,0 +1,12 @@
+Student details
+	registration number
+	first name
+	surname [optional]
+	course
+	year
+
+Course details
+	id
+	course name
+	units
+
